@@ -1,1 +1,3 @@
 Test adding this text file to my repository
+
+Test adding new content in the branch
